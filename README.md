@@ -1,7 +1,7 @@
 # Google-Professional-Certificates
 Professional certificates acquire on Google's platforms
 
-## Google IT Support Proffesional
+## Google IT Support Professional
 By the end of this course, I was able to:
 ● understand how the binary system works <br>
 ● assemble a computer from scratch<br>
